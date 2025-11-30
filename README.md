@@ -43,14 +43,6 @@ Professional Magento 2 extension by W3CTRL for enhanced store functionality.
 
 ## 📦 Installation
 
-### Via Composer (Recommended)
-
-```bash
-composer require w3ctrl/Cancel-Order-Magento-2-Extension
-bin/magento module:enable W3ctrl_*
-bin/magento setup:upgrade
-bin/magento setup:di:compile
-bin/magento cache:flush
 ```
 
 ### Manual Installation
@@ -63,9 +55,9 @@ bin/magento cache:flush
 
 ## 🛒 Purchase & Demo
 
-- **Purchase**: [Buy Now on W3CTRL.com](https://www.w3ctrl.com)
+- **Purchase**: [Buy Now on W3CTRL.com](https://www.w3ctrl.com/product/cancel-order-magento-2-extension)
 - **Live Demo**: [Request Demo](https://www.w3ctrl.com/contact-us/)
-- **Documentation**: [View Full Documentation](https://www.w3ctrl.com)
+- **Documentation**: [View Full Documentation](https://www.w3ctrl.com/product/cancel-order-magento-2-extension)
 - **Support**: [Submit Ticket](https://www.w3ctrl.com/submit-ticket/)
 
 ---
@@ -74,7 +66,7 @@ bin/magento cache:flush
 
 - **Email**: dev@w3ctrl.com
 - **Website**: [www.w3ctrl.com](https://www.w3ctrl.com)
-- **Support Period**: 6 months from purchase
+- **Support Period**: 1product/cancel-order-magento-2-extension months from purchase
 - **Updates**: Free minor updates for 12 months
 
 ---
@@ -115,7 +107,7 @@ Explore our complete collection of Magento 2 extensions:
 - [Extra Fee](https://github.com/w3ctrl/magento2-extra-fee)
 - [Weight Alert](https://github.com/w3ctrl/magento2-weight-alert)
 - [Product Feed](https://github.com/w3ctrl/magento2-product-feed)
-- [And many more...](https://www.w3ctrl.com)
+- [And many more...](https://www.w3ctrl.com/shop)
 
 ---
 
