@@ -43,7 +43,6 @@ Professional Magento 2 extension by W3CTRL for enhanced store functionality.
 
 ## 📦 Installation
 
-```
 
 ### Manual Installation
 
